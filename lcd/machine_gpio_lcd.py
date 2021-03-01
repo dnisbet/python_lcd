@@ -1,6 +1,6 @@
 """Implements a HD44780 character LCD connected via pyboard GPIO pins."""
 
-from machine_lcd_api import LcdApi
+from lcd_api import LcdApi
 from machine import Pin
 import time, utime
 

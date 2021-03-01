@@ -2,7 +2,7 @@
 
 from machine import Pin
 import utime, time
-from machine_gpio_lcd import GpioLcd
+from gpio_lcd import GpioLcd
 
 #rs = Pin(0,Pin.OUT)
 #e = Pin(1,Pin.OUT)
